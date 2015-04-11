@@ -1,0 +1,24 @@
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\bin\Debug\vuongnbps01956_assignment.exe.config
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\bin\Debug\vuongnbps01956_assignment.exe
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\bin\Debug\vuongnbps01956_assignment.pdb
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\bin\Debug\vuongnbps01956_assignment.xml
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.frmmain.resources
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.Resources.resources
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.frmquanlyhanghoa.resources
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.vbproj.GenerateResource.Cache
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.exe
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.xml
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.pdb
+C:\Users\NorthKing-PC\AppData\Local\Temporary Projects\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.dangnhap.resources
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan1\vuongnbps01956_assignment\vuongnbps01956_assignment\bin\Debug\vuongnbps01956_assignment.exe.config
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan1\vuongnbps01956_assignment\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.exe
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan1\vuongnbps01956_assignment\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.xml
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan1\vuongnbps01956_assignment\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.pdb
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan2\vuongnbps01956_assignment\vuongnbps01956_assignment\bin\Debug\vuongnbps01956_assignment.exe.config
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan2\vuongnbps01956_assignment\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.exe
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan2\vuongnbps01956_assignment\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.xml
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan2\vuongnbps01956_assignment\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.pdb
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan2\vuongnbps01956_assignment\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.dangnhap.resources
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan2\vuongnbps01956_assignment\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.frmmain.resources
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan2\vuongnbps01956_assignment\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.frmquanlyhanghoa.resources
+C:\Users\NorthKing-PC\Desktop\assignment_vuongnbps01956_giaidoan2\vuongnbps01956_assignment\vuongnbps01956_assignment\obj\Debug\vuongnbps01956_assignment.vbproj.GenerateResource.Cache
